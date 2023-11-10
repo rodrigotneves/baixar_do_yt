@@ -52,7 +52,7 @@ def download_youtube_video_with_resolution(url, save_path, min_resolution=460):
 
 
 if __name__ == "__main__":
-    youtube_url = "https://www.youtube.com/watch?v=iYvHIqKPoJg"
+    youtube_url = "https://www.youtube.com/watch?v=bZ8OaTcZARM"
     save_path = "videos"  # Defina o caminho onde você deseja salvar o vídeo  # noqa
     min_resolution = 460  # Escolha a resolução mínima desejada (por exemplo, 720)  # noqa
 
